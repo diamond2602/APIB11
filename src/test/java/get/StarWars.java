@@ -36,7 +36,7 @@ public class StarWars {
        }
     }
         Assert.assertTrue(count>0);
-
+        System.out.println("just to test github this sout has nothing to do ");
 
     }
 
